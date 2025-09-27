@@ -7,7 +7,9 @@
 - **Tools & Platforms:** NPM, VS Code, Postman
 - **APIs & Testing:** REST APIs, Jest
 - **Other:** MVC architecture, TDD(Test Driven Development), Agile
-
+- 
+## 🌍 Connect with me
+[LinkedIn](www.linkedin.com/in/monika-baltova-947260377) 
 
 <!--
 **monikabaltova/monikabaltova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
