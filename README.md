@@ -2,7 +2,7 @@
 
 I'm Junior Full-Stack JavaScript Developer, based in London. aMost recently, I have completed an intensive course at Northcoders, which helped me to fill the knowledge gaps I had and taught me how to write clean, readable, and maintainable code. Feel free to have a look around my projects and their associated repositories. Some projects were done as part of some self learning others being with Northcoders.
 
---
+***
 
 ### 🛠️ Tech Stack:
 - **Languages & Frameworks:**  JavaScript (ES6+), HTML5, CSS3, Node.js, Express.js, React.js 
@@ -12,7 +12,8 @@ I'm Junior Full-Stack JavaScript Developer, based in London. aMost recently, I h
 - **APIs & Testing:** REST APIs, Jest
 - **Other:** MVC architecture, TDD(Test Driven Development), Agile
 
--
+___
+
 
 ### 🤔 Why become a developer:
 
