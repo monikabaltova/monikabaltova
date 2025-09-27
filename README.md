@@ -1,12 +1,12 @@
 ## Hi there, i'm Monika 👋
 
 ### 🛠️Technical Skills:
-*Languages & Frameworks:*  JavaScript (ES6+), HTML5, CSS3, Node.js, Express.js, React.js 
-*Databases:* SQL and PostgreSQL
-*Version Control & Collaboration:* Git, GitHub
-*Tools & Platforms:* NPM, VS Code, Postman
-*APIs & Testing:* REST APIs, Jest
-*Other:* MVC architecture, TDD(Test Driven Development), Agile
+- **Languages & Frameworks:**  JavaScript (ES6+), HTML5, CSS3, Node.js, Express.js, React.js 
+- **Databases:** SQL and PostgreSQL
+- **Version Control & Collaboration:** Git, GitHub
+- **Tools & Platforms:** NPM, VS Code, Postman
+- **APIs & Testing:** REST APIs, Jest
+- **Other:** MVC architecture, TDD(Test Driven Development), Agile
 
 
 <!--
