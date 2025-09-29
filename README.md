@@ -1,6 +1,6 @@
 ## **Hi there, i'm Monika** 👋
 
-I'm Junior Full-Stack JavaScript Developer, based in London. aMost recently, I have completed an intensive course at Northcoders, which helped me to fill the knowledge gaps I had and taught me how to write clean, readable, and maintainable code. Feel free to have a look around my projects and their associated repositories. Some projects were done as part of some self learning others being with Northcoders.
+I'm Junior Full-Stack JavaScript Developer, based in London. Most recently, I have completed an intensive course at Northcoders, which helped me to fill the knowledge gaps I had and taught me how to write clean, readable, and maintainable code. Feel free to have a look around my projects and their associated repositories. Some projects were done as part of some self learning others being with Northcoders.
 
 
 ### 🛠️ Tech Stack:
