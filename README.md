@@ -22,7 +22,7 @@ The IT sector turns out to have the missing piece I needed in my current career.
 I'm currently looking for a role in the tech world as a Junior Full-Stack Developer, Front-End Developer, or Back-End Developer.
   
 ### 🌍 Connect with me
-[LinkedIn](www.linkedin.com/in/monika-baltova-947260377) 
+[LinkedIn](https://www.linkedin.com/in/monika-baltova-947260377)
 
 <!--
 **monikabaltova/monikabaltova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
