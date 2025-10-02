@@ -9,7 +9,7 @@ I'm Junior Full-Stack JavaScript Developer, based in London. Most recently, I ha
 - **Back-End:** SQL, PostgreSQL, Express.js, Node.js, Seeding, REST APIs
 - **Front-End:** HTML5, CSS3, React.js,  Axios, Lighthouse, Accessibility Tools
 - **Work Practices:** Git, GitHub, MVC architecture, paired programming, Agile, and SCRUM methodologies
-- **Hoisting:** Superbase, Render
+- **Hoisting:** Superbase, Render, Netlify
 
 
 ### 🤔 Why become a developer:
