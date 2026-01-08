@@ -7,7 +7,7 @@ I'm Junior Full-Stack JavaScript Developer, based in London. Most recently, I ha
 - **Language:**  JavaScript (ES6+)
 - **Testing:** Jest, Supertest, TDD
 - **Back-End:** SQL, PostgreSQL, Express.js, Node.js, Seeding, REST APIs
-- **Front-End:** HTML5, CSS3, React.js,  Axios, Lighthouse, Accessibility Tools
+- **Front-End:** HTML5, CSS3, Tailwind CSS, React.js, Axios, Redux Toolkit, Lighthouse, Accessibility Tools
 - **Work Practices:** Git, GitHub, MVC architecture, paired programming, Agile, and SCRUM methodologies
 - **Hoisting:** Superbase, Render, Netlify
 
